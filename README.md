@@ -11,7 +11,7 @@ Repositorio para almacenar los scrips de los diferentes diseños experimentales
 
 ### Laboratorios
 
-#### laborartorio 1
++ Laborartorio 1
 
 
 
