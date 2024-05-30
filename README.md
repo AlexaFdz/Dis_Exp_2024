@@ -18,3 +18,5 @@ Repositorio para almacenar los scrips de los diferentes diseños experimentales
 
 
 ### Tareas
+
+![Image text](
