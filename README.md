@@ -19,4 +19,4 @@ Repositorio para almacenar los scrips de los diferentes diseños experimentales
 
 ### Tareas
 
-![Image text](
+![Image text](https://github.com/AlexaFdz/Dis_Exp_2024/blob/main/Gr%C3%A1fica%20clase.png)
